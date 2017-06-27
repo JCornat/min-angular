@@ -1,7 +1,5 @@
-#BioContact
+Quick test for minimum Angular size bundle
 
-###Push :
-- IOS :  
-Copy `GoogleService-Info.plist` to `Resources` folder in xCode.
-- Android :  
-Copy `google-services.json` to `platforms/android` folder.
+- `npm i` to install dependencies
+- `npm run build:aot` to build for production + aot
+- `npm run server` to test with hmr
