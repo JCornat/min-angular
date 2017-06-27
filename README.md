@@ -14,3 +14,5 @@ Here the details :
 polyfills.5b2b62ecb54540838c34.bundle.js  55.3 kB       2  [emitted]         polyfills
                               index.html     1 kB          [emitted]
 ```
+
+Take a watch to https://github.com/AngularClass/angular-starter to have a get a wonderful Webpack config
